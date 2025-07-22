@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Little Lemon Web Application
 
 ## Capstone Project — Meta Back-End Developer
@@ -25,8 +24,8 @@ A robust web application built with **Django**, **Django REST Framework**, **Djo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/little-lemon-webapp.git
-   cd little-lemon-webapp
+   git clone https://github.com/ibrahimhm2/littlelemon-capstone-web-application-.git
+   cd littlelemon-capstone-web-application-
    ```
 
 2. **Create & activate a virtual environment**
@@ -134,7 +133,3 @@ All endpoints use `/restaurant/api/` as the root.
 ```bash
 python manage.py test
 ```
-=======
-# littlelemon-capstone-web-application-
-Django RESTful web application for Little Lemon Restaurant, featuring user authentication, menu management, and table booking. Developed as a capstone project for the Meta Back-End Developer program.
->>>>>>> 31b07ad1aaa0d2ad8d11e445efc6db2c76c6d8c7
