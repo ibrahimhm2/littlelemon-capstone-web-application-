@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Lemon Web Application
 
 ## Capstone Project — Meta Back-End Developer
@@ -133,3 +134,7 @@ All endpoints use `/restaurant/api/` as the root.
 ```bash
 python manage.py test
 ```
+=======
+# littlelemon-capstone-web-application-
+Django RESTful web application for Little Lemon Restaurant, featuring user authentication, menu management, and table booking. Developed as a capstone project for the Meta Back-End Developer program.
+>>>>>>> 31b07ad1aaa0d2ad8d11e445efc6db2c76c6d8c7
